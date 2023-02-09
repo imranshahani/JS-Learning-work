@@ -4,7 +4,7 @@ function sum(name,age, email,...arg){
     for(let a in arg){
         sum+=arg[a];
     }
-    console.log(`my age is : ${sum} `);
+    console.log(`my Age is : ${sum} `);
     
 }
 
